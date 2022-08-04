@@ -23,4 +23,4 @@ The app works just like your typical Quiz app.
 
 ## Live Preview
 
-The live preview of this app can be accessed at: [m4kman](https://m4kman-quizzicle.netlify.app/)
+The live preview of this app can be accessed at: [Live Preview](https://m4kman-quizzicle.netlify.app/)
